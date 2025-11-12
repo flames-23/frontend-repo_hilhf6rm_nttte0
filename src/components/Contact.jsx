@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { Instagram, Linkedin, Behance, Dribbble } from 'lucide-react'
+import { Instagram, Linkedin, Dribbble, Globe } from 'lucide-react'
 
 const icons = [
-  { Icon: Behance, href: '#' },
+  { Icon: Globe, href: '#' },
   { Icon: Instagram, href: '#' },
   { Icon: Linkedin, href: '#' },
   { Icon: Dribbble, href: '#' },
